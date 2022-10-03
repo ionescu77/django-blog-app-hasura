@@ -1,5 +1,8 @@
 ## Simple blog application using Django
 
+https://www.freecodecamp.org/news/how-to-get-instant-graphql-apis-on-your-existing-django-application-c8fcfdb945aa/
+
+
 ### Setup
 
 ```
